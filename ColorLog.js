@@ -1,3 +1,6 @@
+/*
+	@created: Ali GÖREN - 2017-01-10
+*/
 class Log {
 	constructor() {
 		 this.LogDate = '[' + new Date().toLocaleString() + '] ';
