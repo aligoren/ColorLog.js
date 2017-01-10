@@ -4,7 +4,13 @@ Make your logs more fun.
 
 [JSFiddle Sample](https://jsfiddle.net/aligoren/yLry9nf6/)
 
+####*Chrome*
+
 ![ss1.png](ss1.png)
+
+####*Firefox*
+
+![ss2.png](ss2.png)
 
 ## Usage
 
